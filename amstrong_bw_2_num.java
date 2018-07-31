@@ -16,7 +16,7 @@ class Ideone
         for(int number = low + 1; number < high; ++number) {
 
             if (checkArmstrong(number))
-                System.out.print(number + " ");
+                System.out.print(number +);
         }
     }
 
